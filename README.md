@@ -37,6 +37,13 @@ B) flutter build
 C) flutter run
 D) flutter init
 
+# Dart Installation
+1. B
+2. D
+3. B
+4. C
+
+
 
 #Python Installation
 
@@ -75,6 +82,15 @@ B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
+# Python Installation
+1. B
+2. C
+3. A
+4. C
+5. C
+
+
+
 #MySQL Installation
 
 What is the first step to install MySQL on Windows?
@@ -111,3 +127,11 @@ A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
+
+# MySQL Installation
+1. B
+2. D
+3. A
+4. B
+5. B
