@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vnsr1XuU)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16183961&assignment_repo_type=AssignmentRepo)
 # Env_Set
 
 # Environment Setup Assignment
@@ -34,6 +36,13 @@ A) flutter start
 B) flutter build
 C) flutter run
 D) flutter init
+
+# Dart Installation
+1. B
+2. D
+3. B
+4. C
+
 
 
 #Python Installation
@@ -73,6 +82,15 @@ B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
+# Python Installation
+1. B
+2. C
+3. A
+4. C
+5. C
+
+
+
 #MySQL Installation
 
 What is the first step to install MySQL on Windows?
@@ -109,3 +127,11 @@ A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
+
+# MySQL Installation
+1. B
+2. D
+3. A
+4. B
+5. B
